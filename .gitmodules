@@ -1,0 +1,3 @@
+[submodule "NeuraCore-PCB"]
+	path = NeuraCore-PCB
+	url = https://github.com/NeuraCoreTech/NeuraCore-PCB.git
