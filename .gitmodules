@@ -1,3 +1,6 @@
 [submodule "NeuraCore-PCB"]
 	path = NeuraCore-PCB
 	url = https://github.com/NeuraCoreTech/NeuraCore-PCB.git
+[submodule "NeuraCore-CNN"]
+	path = NeuraCore-CNN
+	url = https://github.com/NeuraCoreTech/NeraCore-CNN.git
